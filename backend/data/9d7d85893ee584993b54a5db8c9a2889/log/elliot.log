@@ -1,0 +1,16 @@
+2023-06-06 13:47:48.988083: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/9d7d85893ee584993b54a5db8c9a2889/train_dataset.tsv - Loaded
+2023-06-06 13:47:48.992436: I Test Fold 0
+2023-06-06 13:47:49.164215: I Statistics	Users:	1398	Items:	2933	Transactions:	18978	Sparsity:	0.9953715965577439
+2023-06-06 13:47:49.339781: I Training begun for Random\n
+2023-06-06 13:47:49.339828: I Hyperparameters:
+2023-06-06 13:47:49.339852: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@1', validation_rate=10, verbose=False)
+2023-06-06 13:47:49.339874: I id set to 1
+2023-06-06 13:47:49.339895: I modelClass set to Unpersonalized Recommenders
+2023-06-06 13:47:49.339915: I loading_model set to Random
+2023-06-06 13:47:49.339935: I random_seed set to 42
+2023-06-06 13:47:49.339953: I validation_metric set to nDCG@1
+2023-06-06 13:47:49.339974: I validation_rate set to 10
+2023-06-06 13:47:49.340006: I hyper_opt_alg set to tpe
+2023-06-06 13:47:49.340030: I hyper_max_evals set to 1
+2023-06-06 13:47:49.340055: I Exploration: Test Fold exploration number 1
+2023-06-06 13:47:49.340075: I Exploration: Train-Validation Fold exploration number 1

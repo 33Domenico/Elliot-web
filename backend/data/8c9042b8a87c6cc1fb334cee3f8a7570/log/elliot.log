@@ -1,0 +1,45 @@
+2023-06-06 13:53:25.392456: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/8c9042b8a87c6cc1fb334cee3f8a7570/train_dataset.tsv - Loaded
+2023-06-06 13:53:25.397262: I Test Fold 0
+2023-06-06 13:53:25.572237: I Statistics	Users:	1398	Items:	2933	Transactions:	18978	Sparsity:	0.9953715965577439
+2023-06-06 13:53:25.739181: I Training begun for Random\n
+2023-06-06 13:53:25.740093: I Hyperparameters:
+2023-06-06 13:53:25.740128: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@1', validation_rate=1, verbose=False)
+2023-06-06 13:53:25.740150: I id set to 0
+2023-06-06 13:53:25.740221: I modelClass set to Unpersonalized Recommenders
+2023-06-06 13:53:25.740242: I loading_model set to Random
+2023-06-06 13:53:25.740261: I random_seed set to 42
+2023-06-06 13:53:25.740280: I validation_metric set to nDCG@1
+2023-06-06 13:53:25.740300: I validation_rate set to 1
+2023-06-06 13:53:25.740318: I hyper_opt_alg set to tpe
+2023-06-06 13:53:25.740335: I hyper_max_evals set to 1
+2023-06-06 13:53:25.741160: I Exploration: Test Fold exploration number 1
+2023-06-06 13:53:25.741180: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 13:53:25.774147: I 
+2023-06-06 13:53:25.774199: I Test Evaluation results
+2023-06-06 13:53:25.774226: I Cut-off: 1
+2023-06-06 13:53:25.774249: I Eval Time: 0.0070340633392333984
+2023-06-06 13:53:25.774269: I Results
+2023-06-06 13:53:25.774287: I nDCG	0.0
+2023-06-06 13:53:25.774306: I Training ended for Random
+2023-06-06 13:53:25.774324: I Loss:\t0.0
+2023-06-06 13:53:25.774344: I Best Model params:\t{'meta': namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@1', validation_rate=1, verbose=False), 'id': 0, 'modelClass': 'Unpersonalized Recommenders', 'loading_model': 'Random', 'random_seed': 42, 'validation_metric': 'nDCG@1', 'validation_rate': 1, 'hyper_opt_alg': 'tpe', 'hyper_max_evals': 1, 'name': 'Random_seed=42'}
+2023-06-06 13:53:25.774366: I Best Model results:\t{1: {'nDCG': 0.0}}
+2023-06-06 13:53:25.774862: I Hyperparameters:
+2023-06-06 13:53:25.774916: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@1', validation_rate=1, verbose=False)
+2023-06-06 13:53:25.775100: I id set to 0
+2023-06-06 13:53:25.775130: I modelClass set to Unpersonalized Recommenders
+2023-06-06 13:53:25.775153: I loading_model set to Random
+2023-06-06 13:53:25.775174: I random_seed set to 42
+2023-06-06 13:53:25.775194: I validation_metric set to nDCG@1
+2023-06-06 13:53:25.775216: I validation_rate set to 1
+2023-06-06 13:53:25.775236: I hyper_opt_alg set to tpe
+2023-06-06 13:53:25.775254: I hyper_max_evals set to 1
+2023-06-06 13:53:25.775273: I name set to Random_seed=42
+2023-06-06 13:53:25.775291: I Exploration: Test Fold exploration number 1
+2023-06-06 13:53:25.775674: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 13:53:25.812377: I 
+2023-06-06 13:53:25.812430: I Test Evaluation results
+2023-06-06 13:53:25.812456: I Cut-off: 1
+2023-06-06 13:53:25.812488: I Eval Time: 0.007740974426269531
+2023-06-06 13:53:25.812508: I Results
+2023-06-06 13:53:25.812527: I nDCG	0.0

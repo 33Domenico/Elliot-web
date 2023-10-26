@@ -1,0 +1,5 @@
+2023-06-06 14:46:09.356855: I Loading parameters
+2023-06-06 14:46:09.357126: I Parameter random_seed set to 42
+2023-06-06 14:46:09.492009: I Finished
+2023-06-06 14:46:09.493110: I ******************************************
+2023-06-06 14:46:09.493476: W Saving weights FAILED. No model to save.

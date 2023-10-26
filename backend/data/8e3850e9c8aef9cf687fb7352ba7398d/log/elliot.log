@@ -1,0 +1,61 @@
+2023-06-06 13:58:10.908076: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/8e3850e9c8aef9cf687fb7352ba7398d/train_dataset.tsv - Loaded
+2023-06-06 13:58:10.914705: I Test Fold 0
+2023-06-06 13:58:11.090125: I Statistics	Users:	1398	Items:	2933	Transactions:	18978	Sparsity:	0.9953715965577439
+2023-06-06 13:58:11.254661: I Training begun for Random\n
+2023-06-06 13:58:11.255179: I Hyperparameters:
+2023-06-06 13:58:11.255207: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@1', validation_rate=1, verbose=False)
+2023-06-06 13:58:11.255228: I id set to 0
+2023-06-06 13:58:11.255248: I modelClass set to Unpersonalized Recommenders
+2023-06-06 13:58:11.255322: I loading_model set to Random
+2023-06-06 13:58:11.255342: I random_seed set to 42
+2023-06-06 13:58:11.255361: I validation_metric set to nDCG@1
+2023-06-06 13:58:11.255380: I validation_rate set to 1
+2023-06-06 13:58:11.255398: I hyper_opt_alg set to tpe
+2023-06-06 13:58:11.255475: I hyper_max_evals set to 1
+2023-06-06 13:58:11.255517: I Exploration: Test Fold exploration number 1
+2023-06-06 13:58:11.255559: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 13:58:11.294474: I 
+2023-06-06 13:58:11.294529: I Test Evaluation results
+2023-06-06 13:58:11.294552: I Cut-off: 1
+2023-06-06 13:58:11.294622: I Eval Time: 0.008584976196289062
+2023-06-06 13:58:11.294643: I Results
+2023-06-06 13:58:11.294666: I nDCG	0.0
+2023-06-06 13:58:11.294686: I Training ended for Random
+2023-06-06 13:58:11.294705: I Loss:\t0.0
+2023-06-06 13:58:11.294725: I Best Model params:\t{'meta': namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@1', validation_rate=1, verbose=False), 'id': 0, 'modelClass': 'Unpersonalized Recommenders', 'loading_model': 'Random', 'random_seed': 42, 'validation_metric': 'nDCG@1', 'validation_rate': 1, 'hyper_opt_alg': 'tpe', 'hyper_max_evals': 1, 'name': 'Random_seed=42'}
+2023-06-06 13:58:11.294744: I Best Model results:\t{1: {'nDCG': 0.0}}
+2023-06-06 13:58:11.295277: I Hyperparameters:
+2023-06-06 13:58:11.295298: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@1', validation_rate=1, verbose=False)
+2023-06-06 13:58:11.295317: I id set to 0
+2023-06-06 13:58:11.295335: I modelClass set to Unpersonalized Recommenders
+2023-06-06 13:58:11.295352: I loading_model set to Random
+2023-06-06 13:58:11.295371: I random_seed set to 42
+2023-06-06 13:58:11.295389: I validation_metric set to nDCG@1
+2023-06-06 13:58:11.295558: I validation_rate set to 1
+2023-06-06 13:58:11.295577: I hyper_opt_alg set to tpe
+2023-06-06 13:58:11.295596: I hyper_max_evals set to 1
+2023-06-06 13:58:11.295615: I name set to Random_seed=42
+2023-06-06 13:58:11.295635: I Exploration: Test Fold exploration number 1
+2023-06-06 13:58:11.295653: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 13:58:11.333965: I 
+2023-06-06 13:58:11.334021: I Test Evaluation results
+2023-06-06 13:58:11.334043: I Cut-off: 1
+2023-06-06 13:58:11.334063: I Eval Time: 0.007340908050537109
+2023-06-06 13:58:11.334083: I Results
+2023-06-06 13:58:11.334102: I nDCG	0.0
+2023-06-06 14:02:04.742073: I There will be the splitting
+2023-06-06 14:02:04.757062: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/9daa6926a698a03bd19135d33de40af4/dataset.tsv - Loaded
+2023-06-06 14:02:05.517149: I Test Fold 0
+2023-06-06 14:02:05.694036: I Statistics	Users:	1398	Items:	2655	Transactions:	14557	Sparsity:	0.9960780668644202
+2023-06-06 14:03:37.972856: I There will be the splitting
+2023-06-06 14:03:37.981937: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/d94136764879f3a89e3e7f2dd386b332/dataset.tsv - Loaded
+2023-06-06 14:03:38.611539: I Test Fold 0
+2023-06-06 14:03:38.770452: I Statistics	Users:	1398	Items:	2655	Transactions:	14557	Sparsity:	0.9960780668644202
+2023-06-06 14:24:56.986735: I There will be the splitting
+2023-06-06 14:24:56.997839: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/a3ca62ef6b36379da7963d1ce92012f2/dataset.tsv - Loaded
+2023-06-06 14:24:57.626646: I Test Fold 0
+2023-06-06 14:24:57.787131: I Statistics	Users:	1398	Items:	2655	Transactions:	14557	Sparsity:	0.9960780668644202
+2023-06-06 14:25:12.431225: I There will be the splitting
+2023-06-06 14:25:12.444383: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/2c61595a628b64caa350f1426cdeeb59/dataset.tsv - Loaded
+2023-06-06 14:25:13.064114: I Test Fold 0
+2023-06-06 14:25:13.219086: I Statistics	Users:	1398	Items:	2655	Transactions:	14557	Sparsity:	0.9960780668644202

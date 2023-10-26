@@ -1,0 +1,58 @@
+2023-06-06 14:41:52.777969: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/586038dc1109668af059825caae85809/train_dataset.tsv - Loaded
+2023-06-06 14:41:52.780618: I Test Fold 0
+2023-06-06 14:41:52.940085: I Statistics	Users:	1380	Items:	843	Transactions:	11406	Sparsity:	0.9901954716591882
+2023-06-06 14:41:57.895150: I Training begun for MultiVAE\n
+2023-06-06 14:41:57.895206: I Hyperparameters:
+2023-06-06 14:41:57.895232: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False)
+2023-06-06 14:41:57.895273: I id set to 2
+2023-06-06 14:41:57.895320: I modelClass set to Autoencoders
+2023-06-06 14:41:57.895367: I loading_model set to MultiVAE
+2023-06-06 14:41:57.895419: I validation_metric set to nDCG@10
+2023-06-06 14:41:57.895531: I validation_rate set to 1
+2023-06-06 14:41:57.895578: I hyper_opt_alg set to tpe
+2023-06-06 14:41:57.895601: I hyper_max_evals set to 1
+2023-06-06 14:41:57.895620: I epochs set to 1
+2023-06-06 14:41:57.895641: I batch_size set to 64
+2023-06-06 14:41:57.895660: I intermediate_dim set to 12
+2023-06-06 14:41:57.895678: I latent_dim set to 6
+2023-06-06 14:41:57.895695: I reg_lambda set to 0.2
+2023-06-06 14:41:57.895712: I lr set to 0.01
+2023-06-06 14:41:57.895729: I dropout_pkeep set to 0.5
+2023-06-06 14:41:57.895749: I Exploration: Test Fold exploration number 1
+2023-06-06 14:41:57.895766: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 14:42:01.445960: I 
+2023-06-06 14:42:01.446054: I Test Evaluation results
+2023-06-06 14:42:01.446080: I Cut-off: 10
+2023-06-06 14:42:01.446102: I Eval Time: 0.011981010437011719
+2023-06-06 14:42:01.446123: I Results
+2023-06-06 14:42:01.446389: I nDCG	0.07751
+2023-06-06 14:42:01.514272: I Training ended for MultiVAE
+2023-06-06 14:42:01.514327: I Loss:\t-0.07750538904353005
+2023-06-06 14:42:01.514351: I Best Model params:\t{'meta': namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False), 'id': 2, 'modelClass': 'Autoencoders', 'loading_model': 'MultiVAE', 'validation_metric': 'nDCG@10', 'validation_rate': 1, 'hyper_opt_alg': 'tpe', 'hyper_max_evals': 1, 'epochs': 1, 'batch_size': 64, 'intermediate_dim': 12, 'latent_dim': 6, 'reg_lambda': 0.2, 'lr': 0.01, 'dropout_pkeep': 0.5, 'name': 'MultiVAE_seed=42_e=1_bs=64_intermediate_dim=12_latent_dim=6_reg_lambda=0$2_lr=0$01_dropout_pkeep=0$5', 'best_iteration': 1}
+2023-06-06 14:42:01.514373: I Best Model results:\t{10: {'nDCG': 0.07750538904353005}}
+2023-06-06 14:42:01.514880: I Hyperparameters:
+2023-06-06 14:42:01.514910: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False)
+2023-06-06 14:42:01.514932: I id set to 2
+2023-06-06 14:42:01.514952: I modelClass set to Autoencoders
+2023-06-06 14:42:01.514976: I loading_model set to MultiVAE
+2023-06-06 14:42:01.514997: I validation_metric set to nDCG@10
+2023-06-06 14:42:01.515015: I validation_rate set to 1
+2023-06-06 14:42:01.515035: I hyper_opt_alg set to tpe
+2023-06-06 14:42:01.515053: I hyper_max_evals set to 1
+2023-06-06 14:42:01.515072: I epochs set to 1
+2023-06-06 14:42:01.515090: I batch_size set to 64
+2023-06-06 14:42:01.515112: I intermediate_dim set to 12
+2023-06-06 14:42:01.515130: I latent_dim set to 6
+2023-06-06 14:42:01.515148: I reg_lambda set to 0.2
+2023-06-06 14:42:01.515167: I lr set to 0.01
+2023-06-06 14:42:01.515185: I dropout_pkeep set to 0.5
+2023-06-06 14:42:01.515202: I name set to MultiVAE_seed=42_e=1_bs=64_intermediate_dim=12_latent_dim=6_reg_lambda=0$2_lr=0$01_dropout_pkeep=0$5
+2023-06-06 14:42:01.515222: I best_iteration set to 1
+2023-06-06 14:42:01.515240: I Exploration: Test Fold exploration number 1
+2023-06-06 14:42:01.515259: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 14:42:04.776728: I 
+2023-06-06 14:42:04.780655: I Test Evaluation results
+2023-06-06 14:42:04.780687: I Cut-off: 10
+2023-06-06 14:42:04.780710: I Eval Time: 0.012227773666381836
+2023-06-06 14:42:04.780753: I Results
+2023-06-06 14:42:04.780773: I nDCG	0.07751

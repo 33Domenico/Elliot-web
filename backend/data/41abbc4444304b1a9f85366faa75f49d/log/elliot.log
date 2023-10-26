@@ -1,0 +1,57 @@
+2023-06-06 13:31:25.623248: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/41abbc4444304b1a9f85366faa75f49d/train_dataset.tsv - Loaded
+2023-06-06 13:31:25.626952: I Test Fold 0
+2023-06-06 13:31:25.787868: I Statistics	Users:	1398	Items:	2933	Transactions:	18978	Sparsity:	0.9953715965577439
+2023-06-06 13:31:25.948044: I Training begun for MostPop\n
+2023-06-06 13:31:25.948248: I Hyperparameters:
+2023-06-06 13:31:25.948274: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False)
+2023-06-06 13:31:25.948296: I id set to 0
+2023-06-06 13:31:25.948316: I modelClass set to Unpersonalized Recommenders
+2023-06-06 13:31:25.948336: I loading_model set to MostPop
+2023-06-06 13:31:25.948355: I epochs set to 12
+2023-06-06 13:31:25.948373: I batch_size set to 5
+2023-06-06 13:31:25.948392: I intermediate_dim set to 6
+2023-06-06 13:31:25.948410: I latent_dim set to 6
+2023-06-06 13:31:25.949088: I reg_lambda set to 500
+2023-06-06 13:31:25.949109: I lr set to 0.0012
+2023-06-06 13:31:25.949127: I dropout_pkeep set to 0.05
+2023-06-06 13:31:25.955466: I validation_metric set to nDCG@10
+2023-06-06 13:31:25.961765: I validation_rate set to 1
+2023-06-06 13:31:25.968065: I hyper_opt_alg set to tpe
+2023-06-06 13:31:25.968089: I hyper_max_evals set to 1
+2023-06-06 13:31:25.968110: I Exploration: Test Fold exploration number 1
+2023-06-06 13:31:25.968130: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 13:31:25.971460: I 
+2023-06-06 13:31:25.979010: I Test Evaluation results
+2023-06-06 13:31:25.979045: I Cut-off: 10
+2023-06-06 13:31:25.985346: I Eval Time: 0.0172727108001709
+2023-06-06 13:31:25.991764: I Results
+2023-06-06 13:31:25.991804: I nDCG	0.0
+2023-06-06 13:31:25.991830: I Training ended for MostPop
+2023-06-06 13:31:25.991852: I Loss:\t0.0
+2023-06-06 13:31:25.991876: I Best Model params:\t{'meta': namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False), 'id': 0, 'modelClass': 'Unpersonalized Recommenders', 'loading_model': 'MostPop', 'epochs': 12, 'batch_size': 5, 'intermediate_dim': 6, 'latent_dim': 6, 'reg_lambda': 500, 'lr': 0.0012, 'dropout_pkeep': 0.05, 'validation_metric': 'nDCG@10', 'validation_rate': 1, 'hyper_opt_alg': 'tpe', 'hyper_max_evals': 1, 'name': 'MostPop'}
+2023-06-06 13:31:25.991896: I Best Model results:\t{10: {'nDCG': 0.0}}
+2023-06-06 13:31:25.991918: I Hyperparameters:
+2023-06-06 13:31:25.991940: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False)
+2023-06-06 13:31:25.996512: I id set to 0
+2023-06-06 13:31:25.996551: I modelClass set to Unpersonalized Recommenders
+2023-06-06 13:31:25.996572: I loading_model set to MostPop
+2023-06-06 13:31:25.996591: I epochs set to 12
+2023-06-06 13:31:25.996609: I batch_size set to 5
+2023-06-06 13:31:25.996627: I intermediate_dim set to 6
+2023-06-06 13:31:25.996644: I latent_dim set to 6
+2023-06-06 13:31:25.996662: I reg_lambda set to 500
+2023-06-06 13:31:25.996679: I lr set to 0.0012
+2023-06-06 13:31:25.996696: I dropout_pkeep set to 0.05
+2023-06-06 13:31:25.996713: I validation_metric set to nDCG@10
+2023-06-06 13:31:25.996731: I validation_rate set to 1
+2023-06-06 13:31:25.996748: I hyper_opt_alg set to tpe
+2023-06-06 13:31:25.996765: I hyper_max_evals set to 1
+2023-06-06 13:31:25.996782: I name set to MostPop
+2023-06-06 13:31:25.996799: I Exploration: Test Fold exploration number 1
+2023-06-06 13:31:25.996816: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 13:31:25.996834: I 
+2023-06-06 13:31:25.996852: I Test Evaluation results
+2023-06-06 13:31:25.996870: I Cut-off: 10
+2023-06-06 13:31:25.996887: I Eval Time: 0.01778697967529297
+2023-06-06 13:31:25.996905: I Results
+2023-06-06 13:31:25.996923: I nDCG	0.0

@@ -1,0 +1,6 @@
+2023-06-06 13:20:28.750170: I Loading parameters
+2023-06-06 13:20:28.750492: I Parameter intermediate_dim set to 6
+2023-06-06 13:20:28.750648: I Parameter latent_dim set to 6
+2023-06-06 13:20:28.750841: I Parameter reg_lambda set to 500.0
+2023-06-06 13:20:28.751073: I Parameter lr set to 0.0012
+2023-06-06 13:20:28.751445: I Parameter dropout_pkeep set to 0.05

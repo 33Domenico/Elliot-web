@@ -1,0 +1,28 @@
+2023-06-06 13:29:41.876123: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/64e71a6b92eb6706a06de9ec2d1ad58d/train_dataset.tsv - Loaded
+2023-06-06 13:29:41.879792: I Test Fold 0
+2023-06-06 13:29:42.045870: I Statistics	Users:	1398	Items:	2933	Transactions:	18978	Sparsity:	0.9953715965577439
+2023-06-06 13:29:44.791339: I Training begun for MultiVAE\n
+2023-06-06 13:29:44.791393: I Hyperparameters:
+2023-06-06 13:29:44.791437: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False)
+2023-06-06 13:29:44.791461: I id set to 0
+2023-06-06 13:29:44.791500: I modelClass set to Autoencoders
+2023-06-06 13:29:44.791542: I loading_model set to MultiVAE
+2023-06-06 13:29:44.791695: I epochs set to 12
+2023-06-06 13:29:44.791722: I batch_size set to 5
+2023-06-06 13:29:44.791761: I intermediate_dim set to 6
+2023-06-06 13:29:44.791782: I latent_dim set to 6
+2023-06-06 13:29:44.791813: I reg_lambda set to 500
+2023-06-06 13:29:44.791831: I lr set to 0.0012
+2023-06-06 13:29:44.791849: I dropout_pkeep set to 0.05
+2023-06-06 13:29:44.791867: I validation_metric set to nDCG@10
+2023-06-06 13:29:44.791884: I validation_rate set to 1
+2023-06-06 13:29:44.791901: I hyper_opt_alg set to tpe
+2023-06-06 13:29:44.791920: I hyper_max_evals set to 1
+2023-06-06 13:29:44.791940: I Exploration: Test Fold exploration number 1
+2023-06-06 13:29:44.791961: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 13:30:25.176160: I 
+2023-06-06 13:30:25.176267: I Test Evaluation results
+2023-06-06 13:30:25.176327: I Cut-off: 10
+2023-06-06 13:30:25.176361: I Eval Time: 0.01874995231628418
+2023-06-06 13:30:25.176395: I Results
+2023-06-06 13:30:25.176419: I nDCG	0.0

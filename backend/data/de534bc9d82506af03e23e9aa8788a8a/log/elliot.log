@@ -1,0 +1,3 @@
+2023-06-06 13:06:09.488662: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/de534bc9d82506af03e23e9aa8788a8a/train_dataset.tsv - Loaded
+2023-06-06 13:06:09.495590: I Test Fold 0
+2023-06-06 13:06:10.678349: I Statistics	Users:	1398	Items:	2933	Transactions:	18978	Sparsity:	0.9953715965577439

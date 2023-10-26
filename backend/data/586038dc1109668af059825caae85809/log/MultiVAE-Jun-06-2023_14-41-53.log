@@ -1,0 +1,16 @@
+2023-06-06 14:41:57.895057: I Loading parameters
+2023-06-06 14:41:57.895175: I Parameter intermediate_dim set to 12
+2023-06-06 14:41:57.895249: I Parameter latent_dim set to 6
+2023-06-06 14:41:57.895298: I Parameter reg_lambda set to 0.2
+2023-06-06 14:41:57.895356: I Parameter lr set to 0.01
+2023-06-06 14:41:57.895397: I Parameter dropout_pkeep set to 0.5
+2023-06-06 14:42:01.445839: I Epoch 1/1 loss 1200.38968
+2023-06-06 14:42:01.446021: I ******************************************
+2023-06-06 14:42:01.514825: I Loading parameters
+2023-06-06 14:42:01.515293: I Parameter intermediate_dim set to 12
+2023-06-06 14:42:01.515327: I Parameter latent_dim set to 6
+2023-06-06 14:42:01.515359: I Parameter reg_lambda set to 0.2
+2023-06-06 14:42:01.515390: I Parameter lr set to 0.01
+2023-06-06 14:42:01.515420: I Parameter dropout_pkeep set to 0.5
+2023-06-06 14:42:04.776608: I Epoch 1/1 loss 1200.38968
+2023-06-06 14:42:04.777243: I ******************************************

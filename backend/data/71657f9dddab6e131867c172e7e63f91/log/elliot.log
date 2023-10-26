@@ -1,0 +1,59 @@
+2023-06-06 14:49:12.768099: I /Users/sciueferrara/Downloads/Elliot-Web-main-4/backend/data/71657f9dddab6e131867c172e7e63f91/train_dataset.tsv - Loaded
+2023-06-06 14:49:12.772015: I Test Fold 0
+2023-06-06 14:49:13.340689: I Statistics	Users:	1380	Items:	843	Transactions:	11406	Sparsity:	0.9901954716591882
+2023-06-06 14:49:18.123937: I Training begun for Random\n
+2023-06-06 14:49:18.124108: I Hyperparameters:
+2023-06-06 14:49:18.124333: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False)
+2023-06-06 14:49:18.124415: I id set to 2
+2023-06-06 14:49:18.124663: I modelClass set to Unpersonalized Recommenders
+2023-06-06 14:49:18.124779: I loading_model set to Random
+2023-06-06 14:49:18.124887: I validation_metric set to nDCG@10
+2023-06-06 14:49:18.125015: I validation_rate set to 1
+2023-06-06 14:49:18.125095: I hyper_opt_alg set to tpe
+2023-06-06 14:49:18.125195: I hyper_max_evals set to 1
+2023-06-06 14:49:18.125270: I epochs set to 1
+2023-06-06 14:49:18.125368: I batch_size set to 64
+2023-06-06 14:49:18.125465: I intermediate_dim set to 12
+2023-06-06 14:49:18.125562: I latent_dim set to 6
+2023-06-06 14:49:18.125640: I reg_lambda set to 0.2
+2023-06-06 14:49:18.125852: I lr set to 0.01
+2023-06-06 14:49:18.125959: I dropout_pkeep set to 0.5
+2023-06-06 14:49:18.126070: I random_seed set to 42
+2023-06-06 14:49:18.126143: I Exploration: Test Fold exploration number 1
+2023-06-06 14:49:18.126244: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 14:49:18.193459: I 
+2023-06-06 14:49:18.193526: I Test Evaluation results
+2023-06-06 14:49:18.193584: I Cut-off: 10
+2023-06-06 14:49:18.193639: I Eval Time: 0.04076194763183594
+2023-06-06 14:49:18.193694: I Results
+2023-06-06 14:49:18.193748: I nDCG	0.00761
+2023-06-06 14:49:18.194702: I Training ended for Random
+2023-06-06 14:49:18.194827: I Loss:\t-0.007606589822851285
+2023-06-06 14:49:18.194888: I Best Model params:\t{'meta': namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False), 'id': 2, 'modelClass': 'Unpersonalized Recommenders', 'loading_model': 'Random', 'validation_metric': 'nDCG@10', 'validation_rate': 1, 'hyper_opt_alg': 'tpe', 'hyper_max_evals': 1, 'epochs': 1, 'batch_size': 64, 'intermediate_dim': 12, 'latent_dim': 6, 'reg_lambda': 0.2, 'lr': 0.01, 'dropout_pkeep': 0.5, 'random_seed': 42, 'name': 'Random_seed=42'}
+2023-06-06 14:49:18.194944: I Best Model results:\t{10: {'nDCG': 0.007606589822851285}}
+2023-06-06 14:49:18.196647: I Hyperparameters:
+2023-06-06 14:49:18.196710: I meta set to namespace(hyper_max_evals='1', hyper_opt_alg='tpe', save_weights=True, validation_metric='nDCG@10', validation_rate=1, verbose=False)
+2023-06-06 14:49:18.196765: I id set to 2
+2023-06-06 14:49:18.196818: I modelClass set to Unpersonalized Recommenders
+2023-06-06 14:49:18.196871: I loading_model set to Random
+2023-06-06 14:49:18.196924: I validation_metric set to nDCG@10
+2023-06-06 14:49:18.196977: I validation_rate set to 1
+2023-06-06 14:49:18.197029: I hyper_opt_alg set to tpe
+2023-06-06 14:49:18.197082: I hyper_max_evals set to 1
+2023-06-06 14:49:18.197134: I epochs set to 1
+2023-06-06 14:49:18.197187: I batch_size set to 64
+2023-06-06 14:49:18.197242: I intermediate_dim set to 12
+2023-06-06 14:49:18.197297: I latent_dim set to 6
+2023-06-06 14:49:18.197353: I reg_lambda set to 0.2
+2023-06-06 14:49:18.197408: I lr set to 0.01
+2023-06-06 14:49:18.197461: I dropout_pkeep set to 0.5
+2023-06-06 14:49:18.197513: I random_seed set to 42
+2023-06-06 14:49:18.197566: I name set to Random_seed=42
+2023-06-06 14:49:18.197618: I Exploration: Test Fold exploration number 1
+2023-06-06 14:49:18.197670: I Exploration: Train-Validation Fold exploration number 1
+2023-06-06 14:49:18.263568: I 
+2023-06-06 14:49:18.263625: I Test Evaluation results
+2023-06-06 14:49:18.264539: I Cut-off: 10
+2023-06-06 14:49:18.264634: I Eval Time: 0.04029583930969238
+2023-06-06 14:49:18.264693: I Results
+2023-06-06 14:49:18.264750: I nDCG	0.00761
